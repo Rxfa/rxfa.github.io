@@ -2,14 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/authors/</loc>
+    <loc>https:///rxfa.github.io/</loc>
+    <lastmod>2022-07-03T22:15:46+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https:///rxfa.github.io/authors/</loc>
+    <lastmod>2022-07-03T22:15:46+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https:///rxfa.github.io/categories/</loc>
+    <lastmod>2022-07-03T22:15:46+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/series/</loc>
+    <loc>https:///rxfa.github.io/tags/cybertalents/</loc>
+    <lastmod>2022-07-03T22:15:46+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https:///rxfa.github.io/posts/cybertalents-this-is-sparta/</loc>
+    <lastmod>2022-07-03T22:15:46+01:00</lastmod>
+  </url><url>
+    <loc>https:///rxfa.github.io/tags/easy/</loc>
+    <lastmod>2022-07-03T22:15:46+01:00</lastmod>
+  </url><url>
+    <loc>https:///rxfa.github.io/posts/</loc>
+    <lastmod>2022-07-03T22:15:46+01:00</lastmod>
+  </url><url>
+    <loc>https:///rxfa.github.io/authors/rxfa/</loc>
+    <lastmod>2022-07-03T22:15:46+01:00</lastmod>
+  </url><url>
+    <loc>https:///rxfa.github.io/tags/</loc>
+    <lastmod>2022-07-03T22:15:46+01:00</lastmod>
+  </url><url>
+    <loc>https:///rxfa.github.io/tags/web/</loc>
+    <lastmod>2022-07-03T22:15:46+01:00</lastmod>
+  </url><url>
+    <loc>https:///rxfa.github.io/categories/writeups/</loc>
+    <lastmod>2022-07-03T22:15:46+01:00</lastmod>
+  </url><url>
+    <loc>https:///rxfa.github.io/series/</loc>
   </url>
 </urlset>

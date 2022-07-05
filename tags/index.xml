@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Rxfa.io</title>
-    <link>http://example.org/tags/</link>
-    <description>Recent content in Tags on Rxfa.io</description>
+    <title>Tags on &lt;/Rxfa&gt;</title>
+    <link>https:///rxfa.github.io/tags/</link>
+    <description>Recent content in Tags on &lt;/Rxfa&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Jul 2022 22:15:46 +0100</lastBuildDate><atom:link href="https:///rxfa.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CyberTalents</title>
+      <link>https:///rxfa.github.io/tags/cybertalents/</link>
+      <pubDate>Sun, 03 Jul 2022 22:15:46 +0100</pubDate>
+      
+      <guid>https:///rxfa.github.io/tags/cybertalents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Easy</title>
+      <link>https:///rxfa.github.io/tags/easy/</link>
+      <pubDate>Sun, 03 Jul 2022 22:15:46 +0100</pubDate>
+      
+      <guid>https:///rxfa.github.io/tags/easy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>https:///rxfa.github.io/tags/web/</link>
+      <pubDate>Sun, 03 Jul 2022 22:15:46 +0100</pubDate>
+      
+      <guid>https:///rxfa.github.io/tags/web/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
